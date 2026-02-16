@@ -1,16 +1,41 @@
-## Hi there 👋
 
-<!--
-**Marfru/marfru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧑‍💻 Senior Front-End Engineer | 10+ Years Experience
 
-Here are some ideas to get you started:
+Frontend specialist with a strong focus on scalability, architecture, and developer experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building modern frontend systems at **Sendcloud**.
+
+---
+
+## 🚀 Tech Stack
+
+### 🟢 Daily Drivers
+![Vue.js](https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white) ![Javascript](https://img.shields.io/badge/Javascript-f7df1e?style=for-the-badge&logo=Javascript&logoColor=black)
+
+---
+
+### ⚛️ Frameworks
+![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61dafb) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![Nuxt.js](https://img.shields.io/badge/Nuxt.js-00dc82?style=for-the-badge&logo=nuxtdotjs&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-11181c?style=for-the-badge&logo=supabase&logoColor=\34b27b)
+
+---
+
+### ⚙️ Tooling & Testing
+![Vite](https://img.shields.io/badge/Vite-646cff?style=for-the-badge&logo=vite&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-2ead33?style=for-the-badge&logo=playwright&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-c21325?style=for-the-badge&logo=jest&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+---
+
+## 🧠 What I Focus On
+
+- 🏗 Scalable Frontend Architecture  
+- 🧩 Component-driven development  
+- 🧪 Testing & automation strategies  
+- 🎨 Design systems  
+- ⚡ Performance optimization  
+- 🤝 Mentoring & engineering standards  
+
+---
+
+## 📫 Connect With Me
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
