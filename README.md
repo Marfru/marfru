@@ -37,5 +37,5 @@ Currently building modern frontend systems at **Sendcloud**.
 
 ## 📫 Connect With Me
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)
+[![Portfolio](https://img.shields.io/badge/Portfolio-marfru.dev-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://marfru.dev) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Marcos%20Frutos%20Auge-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-frutos-auge/)
 
